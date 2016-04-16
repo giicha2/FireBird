@@ -25,7 +25,7 @@ $query=mysqli_query($conn,"SELECT id,name FROM peaple");
 	</nav>
 
 	<div>
-		description^^<br><br>
+		description^0^<br><br>
 
 		<?php
 		//$sql="SELECT * FROM peaple LEFT JOIN ages ON peaple.id=ages.id WHERE id=".$_GET['id'];
