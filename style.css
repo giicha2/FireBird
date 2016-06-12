@@ -1,15 +1,18 @@
 h1{
 	color:red;
-	border-bottom:1px solid #ccc;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
+
 }
 h2{
 	color:blue;
 }
-nav{
+#headUI{
+	border-bottom:1px solid #ccc;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+#leftUI{
 	float: left;
-	height: 500px;
+	height: 1000px;
 	border-right: 1px solid #ccc;
 	margin-right: 20px;
 	padding-right: 20px;
@@ -19,7 +22,22 @@ p1{
 	font-weight: bold;
 }
 div{
-	float:left;
+
 	padding:20px;
-	width: :500px;
+	width:500px;
 }
+
+#rank{
+	border-collapse:collapse;
+	padding: 5px;
+	margin:5px;
+}
+.t{
+	color:red;
+}
+td{
+	background:#CEECF5;
+	padding:5px;
+	margin:5px;
+}
+
