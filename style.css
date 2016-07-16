@@ -5,6 +5,9 @@ h1{
 h2{
 	color:blue;
 }
+#loginform{
+	color:red;
+}
 #headUI{
 	border-bottom:1px solid #ccc;
 	padding-bottom: 0px;
@@ -40,4 +43,5 @@ td{
 	padding:5px;
 	margin:5px;
 }
+
 

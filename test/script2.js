@@ -12,3 +12,7 @@ var hw3=document.getElementById('btn_ranking');
 hw3.addEventListener('click',function(){
     location.replace("http://localhost/FireBird/ranking.php");
 })
+
+
+
+
